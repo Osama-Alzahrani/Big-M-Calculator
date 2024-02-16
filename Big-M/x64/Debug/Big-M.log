@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Disktop14.9.2023\colleague\451\MATH329\Project\Big-M\Big-M\main.cpp(180,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Disktop14.9.2023\colleague\451\MATH329\Project\Big-M\Big-M\main.cpp(185,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Disktop14.9.2023\colleague\451\MATH329\Project\Big-M\Big-M\main.cpp(197,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Disktop14.9.2023\colleague\451\MATH329\Project\Big-M\Big-M\main.cpp(202,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Disktop14.9.2023\colleague\451\MATH329\Project\Big-M\Big-M\main.cpp(342): warning C4717: 'computeNewRows': recursive on all control paths, function will cause runtime stack overflow
+  Big-M.vcxproj -> E:\Disktop14.9.2023\colleague\451\MATH329\Project\Big-M\x64\Debug\Big-M.exe
