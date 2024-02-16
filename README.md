@@ -14,14 +14,13 @@ Big-M method is a mathematical optimization technique commonly used in linear pr
 
 ## Example
 You don't have to make the equation in standerd from.
-highlight
-
-
 **<center>**
+
 $\min  z = 2x_1 + x_2$<br>
 $3x_1 + x_2 \geq 9$<br>
 $x_1 + x_2 \geq 6$<br>
 $x1,x2 \geq 0$
+
 </center>
 
 ---
